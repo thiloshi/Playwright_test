@@ -1,7 +1,9 @@
-Module
+**Module**
+
 IT3040 - IT Project Management(Semester 1)
 
 **Installation** 
+
 cd Playwright
 
 npm install
